@@ -7,11 +7,14 @@ The dashboard is designed to help business stakeholders monitor performance, ide
 
 Business Objectives
 
--Track overall sales and profit performance
--Analyze customer segments and product categories
--Identify high- and low-performing product lines
-Understand monthly sales trends and seasonality
-Enable quick insights through interactive filtering
+## Business Objectives
+
+- Track overall sales and profit performance
+- Analyze customer segments and product categories
+- Identify high- and low-performing product lines
+- Understand monthly sales trends and seasonality
+- Enable quick insights through interactive filtering
+
 
 Tools & Technologies
 
