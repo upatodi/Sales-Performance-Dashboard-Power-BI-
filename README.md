@@ -16,55 +16,56 @@ Business Objectives
 - Enable quick insights through interactive filtering
 
 
-Tools & Technologies
+## Tools & Technologies
 
-Power BI
-Data Modeling
-DAX (basic measures)
-Data Visualization & Dashboard Design
+- Power BI
+- Data Modeling
+- DAX (basic measures)
+- Data Visualization & Dashboard Design
 
-Key Metrics (KPIs)
+## Key Metrics (KPIs)
 
-Total Sales
-Total Profit
-Total Customers
-Total Products
+- Total Sales
+- Total Profit
+- Total Customers
+- Total Products
 
-Monthly Sales Trend
+## Monthly Sales Trend
 
-📊 Dashboard Features
+- Month-wise sales analysis to identify growth patterns and seasonality
 
-Executive KPI cards for quick performance overview
-Sales trend analysis (month-wise) to identify growth patterns
-Category-wise sales analysis using bar charts
-Profitability analysis by category to highlight profit drivers
-Customer segment distribution to understand revenue contribution
+## 📊 Dashboard Features
 
-Interactive slicers for:
+- Executive KPI cards for quick performance overview
+- Sales trend analysis (month-wise) to identify growth patterns
+- Category-wise sales analysis using bar charts
+- Profitability analysis by category to highlight profit drivers
+- Customer segment distribution to understand revenue contribution
 
-Year
-Month
-Product
-City
+### Interactive Slicers
 
-🔍 Key Insights
+- Year
+- Month
+- Product
+- City
 
-Consumer segment contributes the highest share of total sales.
-Technology category leads in both sales and profitability.
-Furniture category shows lower profitability despite comparable sales volume.
-Sales demonstrate clear monthly variation, indicating seasonality.
+## 🔍 Key Insights
 
-📂 Dataset
+- Consumer segment contributes the highest share of total sales
+- Technology category leads in both sales and profitability
+- Furniture category shows lower profitability despite comparable sales volume
+- Sales demonstrate clear monthly variation, indicating seasonality
 
-Sales transaction dataset containing:
-Order details
-Product categories
-Customer segments
-Sales and profit values
-Time-based attributes (month/year)
-(Dataset used for learning and portfolio purposes.)
+## 📂 Dataset
 
-🚀 How This Project Adds Value
+- Sales transaction dataset containing:
+  - Order details
+  - Product categories
+  - Customer segments
+  - Sales and profit values
+  - Time-based attributes (month/year)
+- Dataset used for learning and portfolio purposes
+
 
 Demonstrates ability to translate raw data into business insights
 Shows practical understanding of sales and profitability analysis
