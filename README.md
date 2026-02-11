@@ -1,5 +1,7 @@
 # Sales-Performance-Dashboard-Power-BI-
 
+![Sales Dashboard](dashboard.png)
+
 Project Overview
 
 This project presents an interactive Sales Performance Dashboard built using Power BI to analyze sales, profit, customer segments, and monthly trends.
